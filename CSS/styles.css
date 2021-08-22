@@ -1,6 +1,3 @@
-/* body {
-    background-color: aqua;
-} */
 * {
     padding: 0;
     margin: 0;
@@ -12,4 +9,26 @@
 
 .container {
     display: flex;
+}
+
+.row {
+    height: 350px;
+}
+
+.Rcol {
+    background-color: #6610f2;
+    color: #ffff;
+}
+
+.Lcol {
+    background-color: #20c997;
+    color: black;
+}
+
+.footer {
+    background-color: 
+}
+
+.footer-text {
+    font-weight: bold;
 }
